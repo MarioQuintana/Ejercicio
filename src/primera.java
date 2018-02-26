@@ -1,6 +1,4 @@
 /*
- * Crear proyecto java, unirlo a un repositorio y subirlo a git, crea la clase "primera",
- * mete un atributo dentro de esa clase, haz un commit and push,
  * crea una segunda clase llamada "segunda",
  * inserta un atributo dentro de tipo entero y haz commit and push.
  * Mete un segundo atributo primero (entero) en la clase "primera" y haz commit and push.
@@ -13,5 +11,5 @@
  */
 
 public class primera {
-
+int primero;
 }
